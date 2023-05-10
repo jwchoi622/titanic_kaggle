@@ -1,4 +1,4 @@
-# titanic_kaggle
+# Titanic Project
 * Data science project using pandas and seaborn to look at the data. Then I used a regression model to make a prediction. 
 
 # Overview
