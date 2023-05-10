@@ -1,6 +1,5 @@
 # titanic_kaggle
-* Data science project using pandas and seaborn to look at the data. Then I used
-* a regression model to make a prediction. 
+* Data science project using pandas and seaborn to look at the data. Then I used a regression model to make a prediction. 
 
 # Overview
 * Using pandas and seaborn I was able to get a good idea of the data I was working with.
